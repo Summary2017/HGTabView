@@ -1,0 +1,25 @@
+//
+//  HGTabView.pch
+//  HGTabView
+//
+//  Created by  ZhuHong on 16/3/26.
+//  Copyright © 2016年 HG. All rights reserved.
+//
+
+#ifndef HGTabView_pch
+#define HGTabView_pch
+
+#ifdef __OBJC__
+    @import UIKit;
+    @import Foundation;
+    #import "UIView+HG.h"
+    #import "Public.h"
+    #import "HGContentMode.h"
+#endif
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* HGTabView_pch */
